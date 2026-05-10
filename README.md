@@ -100,61 +100,6 @@ passions:
 
 <br/>
 
-## 📌 &nbsp; **~ Pinned Masterpieces ~**
-
-<div align="center">
-
-<a href="https://github.com/AloneMaster7/AIGenerated_Or_Real_Face_Image_Detection">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=AIGenerated_Or_Real_Face_Image_Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AloneMaster7/Brain-Cancer-Detection-Xray-Images-Artificial-Intelligence">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=Brain-Cancer-Detection-Xray-Images-Artificial-Intelligence&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/AloneMaster7/FindAllHostsOnNetwork">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=FindAllHostsOnNetwork&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AloneMaster7/TracerouteInCpp">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=TracerouteInCpp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<a href="https://github.com/AloneMaster7/Honey-Bee-Pollen-Carrying-Detection-using-Deep-Learning">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=Honey-Bee-Pollen-Carrying-Detection-using-Deep-Learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/AloneMaster7/SortionAlgorithms">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=AloneMaster7&repo=SortionAlgorithms&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-<br/>
-
-## 📈 &nbsp; **~ GitHub Analytics ~**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AloneMaster7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AloneMaster7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" />
-</div>
-
----
-
-<br/>
-
-<!-- نمودار فعالیت -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AloneMaster7&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=38bdf8&point=a855f7&color=c9d1d9&area=true&area_color=38bdf830" />
-</div>
-
----
-
-<br/>
-
 ## 🏆 &nbsp; **~ GitHub Trophies ~**
 
 <div align="center">
