@@ -3,7 +3,6 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_diagnostics:  # این رو بذار تا بتونی دستی هم اجراش کنی
   workflow_dispatch:
 
 jobs:
