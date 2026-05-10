@@ -24,17 +24,17 @@
 
 <!-- لینک‌های تماس و رزومه -->
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jvd.r.403@example.com">
     <img src="https://img.shields.io/badge/📬_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AloneMaster7">
     <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/>
   </a>
-  <a href="your-website.com">
-    <img src="https://img.shields.io/badge/🌐_Website-6366f1?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a2e" alt="Website"/>
+  <a href="https://quera.org/profile/3ttypt">
+    <img src="https://quera.org/_next/static/media/logo-quera-heavy.c9211a78.svg" alt="Quera"/>
   </a>
 </div>
 
