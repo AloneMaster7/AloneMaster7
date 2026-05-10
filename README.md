@@ -53,18 +53,18 @@
 name: Javad Rahimi
 username: AloneMaster7
 location: Iran 🇮🇷
-role: Artificial Intelligence Engineer
+role: Artificial Intelligence Engineer & Researcher
 
 skills:
+  - PyTorch, Tensorflow, Opencv, Langchain
   - Python & Deep Learning Frameworks
   - C/C++ System Programming
-  - Assembly & Reverse Engineering
   - Network+ & Raw Socket Programming
   - WordPress Design & Development
 
 passions:
   - 🧬 Medical AI for Disease Detection
-  - 🕵️ Digital Forensics & AI Image Detection
+  - 🕵️ AI Image Detection
   - 🕸️ Network Tools from Scratch
   - ⚙️ Algorithm Optimization & Data Structures
 ```
