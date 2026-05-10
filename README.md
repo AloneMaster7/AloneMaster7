@@ -129,21 +129,3 @@ passions:
 </div>
 
 <br/>
-
----
-
-<br/>
-
-<!-- فوتر -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:3b82f6&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1e293b&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:3b82f6&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" width="100%"/>
-  </picture>
-</div>
-
-<div align="center">
-  <sub>Last updated on <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/AloneMaster7/AloneMaster7&label=📅&query=$.updated_at&color=8b5cf6&style=flat-square" /></sub>
-</div>
-```
