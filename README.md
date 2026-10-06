@@ -8,7 +8,6 @@
 </div>
 
 <!-- آمار بازدیدکننده -->
-<!-- Note: komarev.com/ghpvc is still operational. If it fails, use https://visitor-badge.laobi.icu/badge?page_id=AloneMaster7 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AloneMaster7&label=Profile+Visitors&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/AloneMaster7?label=Followers&style=for-the-badge&color=3b82f6" alt="Followers"/>
@@ -101,11 +100,12 @@ passions:
 
 <br/>
 
-## 🏆 &nbsp; **~ GitHub Trophies ~**
+## ⚡ &nbsp; **~ Who Am I ~**
 
 <div align="center">
-  <!-- Updated to a load-balanced community endpoint for reliability -->
-  <img width="90%" src="https://github-profile-trophy-fork-two.vercel.app/?username=AloneMaster7&theme=tokyonight&margin-w=5&margin-h=5&column=7&no-frame=true&title=-Reviews,-Issues" />
+  <a href="https://github.com/AloneMaster7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Low-Level+Developer+%7C+C%2FC%2B%2B;Network%2B+%7C+Raw+Socket+Programmer;Medical+AI+Researcher+%F0%9F%A7%AC;Building+the+Future%2C+One+Model+at+a+Time" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -127,7 +127,6 @@ passions:
 
 <!-- نقل قول معروف -->
 <div align="center">
-  <!-- Replaced deprecated quotes-github-readme.vercel.app with the active endpoint -->
   <img src="https://github-readme-quotes-bay.vercel.app/quote?type=horizontal&theme=tokyonight&quote=The%20best%20AI%20engineer%20is%20the%20one%20who%20understands%20both%20the%20model%20and%20the%20machine.&author=Javad%20Rahimi" width="70%" />
 </div>
 
